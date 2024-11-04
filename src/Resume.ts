@@ -5,7 +5,7 @@ $ +91 7303233187 | aaravmaan24@gmail.com | <a href="https://www.linkedin.com/in/
 
 ## Vellore Institute of Technology, Vellore. <right> Sep 2021 - Expected Jul 2025
 
-B.Tech Computer Science Engineering with Specialization in Internet of Things [ 8.02 / 10 CGPA ]
+B.Tech Computer Science Engineering with Specialization in Internet of Things [ 8.020 / 10 CGPA ]
  
 ## 12th AISSCE - Dhruva Public School, New Delhi. <right> May 2019 - Jun 2021
 Science [ Maths ]
