@@ -1,56 +1,51 @@
-TITLE: Aarav Maan
-+91 7303233187| aaravmaan24@gmail.com | https://www.linkedin.com/in/aaravmaan/
+# Aarav Maan
+
++91 7303233187 | aaravmaan24@gmail.com | <a href="https://www.linkedin.com/in/aaravmaan"> <b>LinkedIn</b></a> | <a href="https://github.com/ARMNX10"> <b>GitHub</b></a>
+# Professional Summary 
+Self-motivated and detail-oriented emerging professional with experience in Machine Learning and Software Development & Testing. Completed Amazon ML Summer School, applying CNNs and DNNs in real-world scenarios. As a software intern at Colt, identified bugs and developed test cases to enhance software quality.
+# Work Experience
+
+## Amazon ML Summer School '24  <right> July 2024
+<a href = "https://drive.google.com/file/d/1GMhm_jrYwOrnh-VJ-1UBsh5jm1K-hmDL/view?usp=sharing"><b>Apprenticeship</b> </a>
+- Got selected among the 3000 students out of 20000+ applications to participate in an intensive <b>Machine Learning course, including Supervised Learning, Deep Neural Networks, Generative AI, LLMs</b>, etc.
+- Explored real-world applications of <b>CNNs</b> and <b>DNNs</b> in Amazon's products, along with key ML concepts implemented in real-time scenario, during the Amazon ML Summer School.
+
+## Colt Technology Services - Gurugram, Haryana.  <right> August 2023 - December 2023
+<a href = "https://drive.google.com/file/d/1uL8ju-O2v9Ft2pHialScnbSdv-hNHAM3/view?usp=sharing"><b>Software Intern</b> </a>
+- Identified and documented <b>20+ UI</b> and functional bugs, collaborated with development teams to resolve issues, leading to a decrease in reported errors on production software.
+- Coordinated with developers and product managers to align software features with user needs, achieving increased user satisfaction scores and reducing post-release bugs in <b>UAT</b>.
+# Projects & Activities
+
+<h3 style="display: flex;justify-content: space-between;"> MATRIX AI Desktop Assistant <a style="font-size:1em" href="https://github.com/ARMNX10/M.A.T.R.I.X.">github.com/ARMNX10/M.A.T.R.I.X</a> </h3> 
+
+- Developed a <b>voice-activated AI assistant</b> with 95% accuracy in natural language processing, capable of generating content, playing music, opening websites, launching applications, and using intents for dynamic, conversational interactions with users through random greetings.
+- The AI assistant remains in passive listening mode and activates only upon detecting a specific wake-up voice command, then processes subsequent instructions.
+- Built using <b>Python, nltk, Selenium, pyttsx3, SpeechRecognition, Google Generative AI, HTML, CSS</b>, and <b>Javascript</b> to incorporate natural language processing, automation, and speech features, enabling smooth user interaction and task completion.
+<h3><a href="https://matrix-parser.github.io/"></a></h3>
+<h3 style="display: flex;justify-content: space-between;">MATRIX Parser<a style="font-size:1em" href="https://matrix-parser.github.io">matrix-parser.github.io</a> </h3> 
+
+- Created a scalable solution that eliminates manual interpretation of structured data by providing a simple scripting interface. The system distinguishes between <b>different rows and columns in OCR results</b>, significantly reducing the time required to process large volumes of financial and business documents.
+- This parser leverages <b>Google Cloud Vision</b> and <b>Python</b> to process data, then displays it in an editable interface. There is also a frontend where our scripting language can be used to extract data from a particular type of PDF, which can then be reused indefinitely for that specific document format.
+<h3><a href="https://github.com/ARMNX10/Real-time-Braille-Conversion"></a></h3>
+<h3 style="display: flex;justify-content: space-between;"> Real-Time Braille Converter <a style="font-size:1em" href="https://github.com/ARMNX10/Real-time-Braille-Conversion">github.com/ARMNX10/Real-time-Braille-Conversion</a> </h3> 
+
+- Innovated a Python system, leveraging <b>OpenCV</b> and <b>Tesseract OCR</b> for live text recognition from webcam feeds.
+- Deployed spaCy for sophisticated text processing and <b>tkinter</b> for a user friendly GUI, enabling instant conversion of text to Braille and increased usability by 40% by boosting accessibility for visually impaired users.
+# Skills
+**Skills:** Python, C++, Docker, Virtualization, SQL, HTML, CSS, JavaScript, DSA,<a href="https://learn.microsoft.com/api/credentials/share/en-us/AaravMaan-2695/453B20EC1A4235DF?sharingId=F88D6CD38929C2F5"> Microsoft: Azure AI-900 </a>, GCP, AI & ML, OS & Network, MS Office.
+**Frameworks** **/** **Tools:** Pandas, NumPy, TensorFlow, PyTorch, Scikit-learn, Node.js, Selenium, Linux Shell, Hyper-V, Powershell, 
+**Languages:** English, Hindi, Deutsch (A1)
+
+# Extra-Curricular
+- Participated in HackBattle (IEEE-CS, VIT), an intense 2 day Hackathon. Built our own scripting language to maintain and extract data from different invoices. 
+- Actively participated as <a href= "https://drive.google.com/file/d/1AWulbWBss5SEor6m-LGqsMJWyceBk_de/view?usp=sharing"><b>Management Head</b></a>  in the Innovator's Quest Club, focusing on graphic design and management. Created event posters and organized five on-campus events.
+- Implemented an Announcer Bot on the club's Discord server, enhancing communication and engagement with 100+ members. 
+
 
 # Education
 
-## Vellore Institute of Technology <right>Sep 2021 - Expected Aug 2025
+## Vellore Institute of Technology, Vellore. <right> Sep 2021 - Expected Jul 2025
 
-B.Tech Computer Science Engineering with Specilisation in IoT (Internet of Things)
-
-## 12th AISSCE Dhruva Public School, New Delhi 05/2019 - 06/2021
-Science [ Maths ]
-
-# 10th AISSE G.D.Goenka Public School, Patna 04/2015 - 03/2019
-
-# Work Experiences
-
-## Colt Technology Services <right> - Present
-
-Infrastructure, Operations and Testing Intern
-- Performed manual and automated testing of software applications to ensure quality and compliance with industry standards. 
-- Developing and execution of test plans, including test cases, test data, and expected results.
-- Identified and reported bugs to development teams for timely resolution. Worked with development teams to troubleshoot and fix bugs.
-- Develop and maintain test automation frameworks to improve the efficiency and effectiveness of testing. 
-- Collaborating with developers, QA engineers, and product managers to ensure that software met the needs of users. Worked with cross-functional teams to gather requirements & design tests.
-
-
-
-## Innovators Quest VIT-Vellore
-
-Management Head [ March'23 - Present ]
-- Led the club in all aspects for events, session & Team work.
-- Conducted a session on Discord Bot Development & General Usage, Manage And Design Servers alongwith bot integration and config.
-- Collaborated closely with the team to ensure effective communication, task delegation, and timely project delivery.
-- Gained experience in working with a team while delivering effective results for the proposed agenda.
-
-# Projects & Activities
-
-- Developed a Discord bot with a multi-command handling feature using a Queue data structure for efficient task management and announcement distribution.
-- Engaged in hands-on activities involving Kali Linux for ethical hacking purposes. Exploring various tools and techniques to ensure cybersecurity and identify vulnerabilities within systems.
-- Constructed a versatile Discord bot using Python, featuring a Music Player for streaming audio content, an Announcer to disseminate updates, and a Chat Responder to interact dynamically with users.
-- foundational face recognition system using Python and OpenCV. This system can accurately detect and identify faces within images and video streams.
-
-# Co-Extra Curricular
-
-- Participated in the INNOVATOR'S QUEST Club, focusing on Graphic Design and Management. Designed event posters and helped organize on-campus offline events.
-- In the INNOVATOR'S QUEST Club, I successfully implemented an Announcer Bot on the club's Discord server, enhancing communication and engagement with members.
-- Contributed as a Graphic Designer and Technical Domain Member in the VIT-Mathematical Association. Created eye-catching posters, played a role in developing a website, and took part in organizing a hackathon event.
-
-
-
-# Skills & Hobbies
-
-**Skills:**  Python, Selenium-Java, Linux shell scripting, Nodejs, C++, ChatGPT
-**Languages:** English, Hindi
-**Hobbies:** Beatboxing, Photography, Music, Chess 
-**Interests:** Windows troubleshooting, Martial Arts, Graphic Design
+B.Tech Computer Science Engineering with Specialization in Internet of Things [ 8.02 / 10 CGPA ]
+ 
+## 12th AISSCE - Dhruva Public School, New Delhi. <right> May 2019 - Jun 2021
