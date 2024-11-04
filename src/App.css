@@ -1,0 +1,51 @@
+body {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 12px;
+}
+
+h1 {
+  margin: 0;
+}
+
+h2 {
+  margin: 0;
+}
+
+h3 {
+  margin: 0.25rem 0 0 0 ;
+}
+
+h4 {
+  margin: 0;
+}
+
+h5 {
+  margin: 0;
+}
+
+h6 {
+  margin: 0;
+}
+
+p {
+  margin: 0;
+}
+
+ul {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+li {
+  margin: 0.1rem;
+}
+a:visited{
+  color:blue;
+}
+
+a:link {
+  color: blue; 
+}
+a:hover {
+  color: green;
+}
