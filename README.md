@@ -37,7 +37,6 @@ This project is a resume builder application created using React with TypeScript
    ```bash
    npm run dev
    ```
-   This will start the development server, and the app should be available at `http://localhost:3000`.
 
 4. **Build for Production**:
    ```bash
