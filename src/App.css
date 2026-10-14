@@ -49,3 +49,23 @@ a:link {
 a:hover {
   color: green;
 }
+
+ul {
+  list-style-type: disc;
+}
+
+@page {
+  size: A4;
+  margin: 10mm 12mm;
+}
+
+@media print {
+  body {
+    margin: 0;
+    font-size: 11px;
+  }
+  a:link,
+  a:visited {
+    color: blue;
+  }
+}

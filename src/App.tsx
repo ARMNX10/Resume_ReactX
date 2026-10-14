@@ -1,4 +1,5 @@
 import "./App.css";
+import { Fragment } from "react";
 import Section from "./Componenets/Section";
 
 import { source } from "./Resume";
@@ -113,7 +114,24 @@ function toComponent(line: string, key: number) {
 }
 
 function parse(source: string) {
-  return source.split("\n").map(toComponent);
+  const lines = source.split(/\r?\n/);
+  const out: JSX.Element[] = [];
+  let items: JSX.Element[] = [];
+  // Wrap consecutive "- " lines in a <ul> so bullets render
+  const flush = () => {
+    if (items.length) out.push(<ul key={`ul-${out.length}`}>{items}</ul>);
+    items = [];
+  };
+  lines.forEach((line, i) => {
+    const el = toComponent(line, i);
+    if (line.startsWith("- ")) items.push(el);
+    else {
+      flush();
+      out.push(<Fragment key={i}>{el}</Fragment>);
+    }
+  });
+  flush();
+  return out;
 }
 
 function App() {
